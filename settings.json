@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "rty223456887",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "idan7645.aternos.me",
+    "port": 62033,
     "version": "1.19.3"
   },
 
